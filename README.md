@@ -35,6 +35,19 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
 
+| Frame | Zaman(s) | Konum (m)|
+|-------|----------| ---------|
+| 10 (Başlangıç)| 0 |   0      |
+| 15   | 5/60     |   0.13    |
+| 23    | 13/60    |   0.31  |
+| 27    | 17/60    |   0.38    |
+| 34   | 24/60    |   0.48   |
+| 39    | 29/60    |   0.53   |
+| 45    | 35/60    |   0.57   |
+| 47    | 37/60    |   0.575   | 
+| 50    | 40/60    |   0.58   |
+| 52    | 42/60    |   0.582   |
+
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
